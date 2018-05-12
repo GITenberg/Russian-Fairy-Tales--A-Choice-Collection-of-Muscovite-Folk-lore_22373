@@ -1,0 +1,46 @@
+_repo: Russian-Fairy-Tales--A-Choice-Collection-of-Muscovite-Folk-lore_22373
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ralston, William Ralston Shedden
+    alias: Ralston, W. R. S. (William Ralston Shedden)
+    birthdate: 1828
+    deathdate: 1889
+    gutenberg_agent_id: '4863'
+    url: http://www.gutenberg.org/2009/agents/4863
+    wikipedia: http://en.wikipedia.org/wiki/William_Shedden_Ralston
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Folklore
+gutenberg_issued: '2007-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22373'
+language: en
+publication_note: 'New York :  Hurst & Co.,  [aft. 1872]'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Russia'
+- !lcc 'GR'
+tableOfContents: The Fiend -- The Dead Mother -- The Dead Witch -- The Treasure --
+  The Cross-Surety -- The Awful Drunkard -- The Bad Wife -- The Golovikha -- The Three
+  Copecks -- The Miser -- The Fool and the Birch-Tree -- The Mizgir -- The Smith and
+  the Demon -- Ivan Popyalof -- The Norka -- Marya Morevna -- Koshchei the Deathless
+  -- The Water Snake -- The Water King and Vasilissa the Wise -- The Baba Yaga --
+  Vasilissa the Fair -- The Witch -- The Witch and the Sun's Sister -- One-Eyed Likho
+  -- Woe -- Friday -- Wednesday -- The Léshy -- Vazuza and Volga -- Sozh and Dnieper
+  -- The Metamorphosis of the Dnieper, the Volga, and the Dvina -- Frost -- The Blind
+  Man and the Cripple -- Princess Helena the Fair -- Emilian the Fool -- The Witch
+  Girl -- The Headless Princess -- The Soldier's Midnight Watch -- The Warlock --
+  The Fox-Physician -- The Fiddler in Hell -- The Ride on the Gravestone -- The Two
+  Friends -- The Shroud -- The Coffin-Lid -- The Two Corpses -- The Dog and the Corpse
+  -- The Soldier and the Vampire -- Elijah the Prophet and Nicholas -- The Priest
+  with the Greedy Eyes -- The Hasty Word.
+title: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+url: http://www.gutenberg.org/ebooks/22373
