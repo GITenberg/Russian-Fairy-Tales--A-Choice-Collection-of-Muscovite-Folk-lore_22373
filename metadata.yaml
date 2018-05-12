@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22373#Russian-Fairy-Tales--A-Choice-Collection-of-Muscovite-Folk-lore
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Folklore
